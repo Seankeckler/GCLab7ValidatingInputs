@@ -1,0 +1,7 @@
+C:\Users\seank\source\repos\GCLab7ValidatingInputs\GCLab7ValidatingInputs\bin\Debug\GCLab7ValidatingInputs.exe.config
+C:\Users\seank\source\repos\GCLab7ValidatingInputs\GCLab7ValidatingInputs\bin\Debug\GCLab7ValidatingInputs.exe
+C:\Users\seank\source\repos\GCLab7ValidatingInputs\GCLab7ValidatingInputs\bin\Debug\GCLab7ValidatingInputs.pdb
+C:\Users\seank\source\repos\GCLab7ValidatingInputs\GCLab7ValidatingInputs\obj\Debug\GCLab7ValidatingInputs.csprojAssemblyReference.cache
+C:\Users\seank\source\repos\GCLab7ValidatingInputs\GCLab7ValidatingInputs\obj\Debug\GCLab7ValidatingInputs.csproj.CoreCompileInputs.cache
+C:\Users\seank\source\repos\GCLab7ValidatingInputs\GCLab7ValidatingInputs\obj\Debug\GCLab7ValidatingInputs.exe
+C:\Users\seank\source\repos\GCLab7ValidatingInputs\GCLab7ValidatingInputs\obj\Debug\GCLab7ValidatingInputs.pdb
